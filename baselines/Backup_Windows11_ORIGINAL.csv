@@ -438,4 +438,3 @@
 "11055","System Services","Xbox Live Game Save (XblGameSave) (Service Startup type)","service","XblGameSave","","","","","","Manual","Manual","=","Medium"
 "11056","System Services","Xbox Live Networking Service (XboxNetApiSvc)","Registry","","HKLM:\SYSTEM\CurrentControlSet\Services\XboxNetApiSvc","Start","","","","3","3","=","Medium"
 "11057","System Services","Xbox Live Networking Service (XboxNetApiSvc) (Service Startup type)","service","XboxNetApiSvc","","","","","","Manual","Manual","=","Medium"
-
